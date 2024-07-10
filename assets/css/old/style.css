@@ -1,0 +1,18 @@
+ul.icons.major span {
+  cursor: pointer; }
+
+.content .more {
+  display: block;
+  text-align: center; }
+  .content .more button.large {
+    margin: 40px; }
+
+button.default.projects {
+  box-shadow: inset 0 0 0 2px white; }
+  button.default.projects:hover {
+    box-shadow: inset 0 0 0 2px #00ffcc;
+    color: #00ffcc; }
+
+.presentation {
+  height: 100vh;
+  background: #21b2a6; }

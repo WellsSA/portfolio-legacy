@@ -1,0 +1,37 @@
+/*
+NOTA 
+
+medium/ -> comportar imagens normais
+low/ -> comportar imagens para celular
+miniature/ -> comportar miniaturas das imagens normais
+*/
+
+Notebook
+
+1. 
+https://smartmockups.com/mockup/digital_psdg_2
+2. 
+https://smartmockups.com/mockup/digital_world_7
+3. 
+https://smartmockups.com/mockup/digital_firmbee_5
+4. 
+https://smartmockups.com/mockup/digital_firmbee_16
+5. 
+https://smartmockups.com/mockup/digital_firmbee_1
+6. 
+https://smartmockups.com/mockup/digital_firmbee_39
+
+Mobile
+
+1. 
+https://smartmockups.com/mockup/digital_lucas_4
+2. 
+https://smartmockups.com/mockup/digital_shakuro_1
+3. 
+https://smartmockups.com/mockup/digital_world_25
+4. 
+https://smartmockups.com/mockup/digital_lucas_3
+5. 
+https://smartmockups.com/mockup/digital_psdg_4
+6. 
+https://smartmockups.com/mockup/digital_firmbee_35
